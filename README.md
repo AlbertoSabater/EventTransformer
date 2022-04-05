@@ -1,5 +1,9 @@
 This repository contains the official code from __Event Transformer. A sparse-aware solution for efficient event data processing__. 
-Arxiv: ...
+
+Event Transformer (EvT) takes advantage of the event-data sparsity to increase its efficiency. EvT only processes, with an attention-like Neural Network, parts of the scenes with sufficient events logged (patches).
+
+[Arxiv] [Supplementary video]
+
 Citation:
 ```
 {}
