@@ -1,0 +1,10 @@
+aermanager==0.3.0
+numpy==1.20.3
+pandas==1.2.5
+scikit-image==0.18.2
+scikit-learn==0.24.2
+scipy==1.6.2
+sparse==0.12.0
+torch==1.9.0
+pytorch-lightning==1.3.8
+ptflops==0.6.6
