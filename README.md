@@ -1,8 +1,8 @@
+[[Paper](https://arxiv.org/abs/2204.03355)] [[Supplementary video](https://drive.google.com/file/d/1X4OviJTxTUbi2W0zQYKG3qqtEUf98a0p/view?usp=sharing)]
+
 This repository contains the official code from __Event Transformer. A sparse-aware solution for efficient event data processing__. 
 
 Event Transformer (EvT) takes advantage of the event-data sparsity to increase its efficiency. EvT usses a new sparse patch-based event-data representation and a compact transformer architecture that naturally processes it. EvT shows high classification accuracy while requiring minimal computation resources, being able to work with minimal latency both in GPU and CPU. 
-
-[[Arxiv](https://arxiv.org/abs/2204.03355)] [[Supplementary video](https://drive.google.com/file/d/1X4OviJTxTUbi2W0zQYKG3qqtEUf98a0p/view?usp=sharing)]
 
 <p align="center">
   <img width="600" src="model_overview_v6.png">
